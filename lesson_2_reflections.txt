@@ -1,0 +1,4 @@
+What happens when you initialize a repository?
+git init --> makes 0 comits
+git status --> all files are untracked
+How is the staging area different from the working directory and the repository? What value do you think it offers?
